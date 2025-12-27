@@ -11,5 +11,9 @@
     "comments": false,
     "strings": false
   },
-  "python.analysis.autoImportCompletions": false
+  "python.analysis.autoImportCompletions": false,
+
+  "files.exclude": {
+    "**/.vscode": true
+  }
 }
