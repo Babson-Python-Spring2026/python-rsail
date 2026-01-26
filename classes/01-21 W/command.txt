@@ -1,0 +1,3 @@
+Get-Content students.txt | ForEach-Object {
+  gh orgs invite Babson-Python-Spring2026 --user $_
+}
