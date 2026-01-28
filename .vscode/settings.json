@@ -27,5 +27,6 @@
 
   "files.exclude": {
     "**/.vscode": true
-}
+},
+"python.REPL.enableREPLSmartSend": false
 }
